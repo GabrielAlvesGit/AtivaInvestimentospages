@@ -9,7 +9,7 @@
             <!-- Subtitulo-->
             <p>Junte-se a nós e <span>potencialize</span> seus ganhos financeiros!</p>
         
-            <p class="msgError">Componente de Mensagem</p>
+            <!--<p class="msgError">Componente de Mensagem</p>-->
             <form class="cadastro-form" id="cadastro-form">
                 <!-- Nome do Usuario-->
                <div class="input-container">
