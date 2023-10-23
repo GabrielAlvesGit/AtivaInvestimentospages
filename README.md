@@ -1,7 +1,41 @@
-# Vue 3 + Vite
+# Page usando Vue.js
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+<h1 align="center" >
+  <img src="./public/img/logoAtiva.jpeg" width="300" height="150"  >
+</h1>
 
-## Recommended IDE Setup
+# Ativa Investimentos #timeativa - Hospedagem de site
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+<h1 style="font-size: 1.2rem;" align="center"><a href="https://ativainvestimentos-estagio-gabriel.netlify.app/">website view</a></h1>
+
+Observação: Devido a ser um site de hospedagem gratuita, pode haver limitações no funcionamento correto de elementos e imagens. No entanto, você pode baixar o conteúdo e testá-lo em seu computador, onde deverá funcionar normalmente.
+
+### Clone esse repositório
+
+<pre>
+$ git clone https://github.com/GabrielAlvesGit/AtivaInvestimentospages
+</pre>
+
+### Entre no diretório do projeto
+
+<pre>
+$ cd handleClick
+</pre>
+
+### Instale as dependências
+
+<pre>
+$ npm install  
+</pre>
+
+### Inicie o projeto com o comando
+
+<pre>
+$ npm run dev
+ou
+$ yarn start 
+</pre>
+
+## 💻 Layout
+
+<span style="font-size: 12px;">Este site é desenvolvido sem a utilização de JavaScript convencional, em vez disso, emprega Vue.js e CSS para fornecer uma experiência de usuário única e eficiente.</span>
